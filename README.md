@@ -1,2 +1,2 @@
-# smart_parking_system
+# smart parking system
 This is the online parking System where you can book your parking slots in malls before you comming into the mall.
